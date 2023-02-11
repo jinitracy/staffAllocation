@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "_id": "63dbe6852abc92fb159aae35",
+            "semester": 3,
+            "courseId": {
+            "title": "urfb"
+            },
+            "courseCode": "18IHS701",
+            "batch": 2025,
+            "facultyId": {
+            "firstName": "iubf"
+        }
+        },
+        {
+            "_id": "63dbe6852abc92fb159aae36",
+            "semester": 7,
+            "courseId": {
+            "title": "zierfbi"
+            },
+            "courseCode": "18IHS702",
+            "batch": 2023
+        }
+    ],
+    "faculty": [
+        {
+            "_id": "63dbb7f52592e021f25104e8",
+            "firstName": "iubf"
+        },
+        {
+            "_id": "63dbb7ff2592e021f25104eb",
+            "firstName": "iubf"
+        },
+        {
+            "_id": "63dbb8002592e021f25104ee",
+            "firstName": "iubf"
+        }
+    ]
+}
